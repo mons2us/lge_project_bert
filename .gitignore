@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# no ckpt
+ckpt/*
+
+# xlsx file
+*.xlsx
